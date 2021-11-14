@@ -1,0 +1,3 @@
+export const SET_ACCOUNT_INFO = "SET_ACCOUNT_INFO";
+
+export const SET_PROJECT_NAME = "SET_PROJECT_NAME";
